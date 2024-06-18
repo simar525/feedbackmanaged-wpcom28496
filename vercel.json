@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://forms.endorsal.io/form/5f1dd7f430d7407fc17ac9ad/$1"
+ }
+  ]
+}
